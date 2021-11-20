@@ -1,0 +1,6 @@
+name = "CxxWrapTestRegistry"
+uuid = "e552e162-ce81-4602-898c-f3edd3480370"
+repo = "git@github.com:barche/CxxWrapTestRegistry.git"
+description = "CxxWrap-based experimental JLL packages"
+
+[packages]
