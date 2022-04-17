@@ -5,3 +5,4 @@ description = "CxxWrap-based experimental JLL packages"
 
 [packages]
 3eaa8342-bff7-56a5-9981-c04077f7cee7 = { name = "libcxxwrap_julia_jll", path = "L/libcxxwrap_julia_jll" }
+c0090381-4147-56d7-9ebc-da0b1113ec56 = { name = "Qt6Base_jll", path = "Q/Qt6Base_jll" }
