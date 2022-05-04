@@ -5,8 +5,3 @@ description = "CxxWrap-based experimental JLL packages"
 
 [packages]
 3eaa8342-bff7-56a5-9981-c04077f7cee7 = { name = "libcxxwrap_julia_jll", path = "L/libcxxwrap_julia_jll" }
-629bc702-f1f5-5709-abd5-49b8460ea067 = { name = "Qt6Declarative_jll", path = "Q/Qt6Declarative_jll" }
-6de9746b-f93d-5813-b365-ba18ad4a9cf3 = { name = "Qt6Svg_jll", path = "Q/Qt6Svg_jll" }
-78e728a9-57fe-5d11-897c-5014b89e5f84 = { name = "NetCDFF_jll", path = "N/NetCDFF_jll" }
-c0090381-4147-56d7-9ebc-da0b1113ec56 = { name = "Qt6Base_jll", path = "Q/Qt6Base_jll" }
-ce943373-25bb-56aa-8eca-768745ed7b5a = { name = "Qt6ShaderTools_jll", path = "Q/Qt6ShaderTools_jll" }
