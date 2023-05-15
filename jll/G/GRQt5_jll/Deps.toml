@@ -12,3 +12,6 @@ Pixman_jll = "30392449-352a-5448-841d-b1acce4e97dc"
 Qt5Base_jll = "ea2cea3b-5b76-57ae-a6ef-0a8af62496e1"
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
 libpng_jll = "b53b4c65-9356-5827-b1ea-8c7a1a84506f"
+
+["0.72-0"]
+GRCore_jll = "f74edf77-fc28-5533-a68a-cacf3c4a2f46"
